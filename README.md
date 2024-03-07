@@ -36,7 +36,6 @@ Hello, I'm **Eduardo Montaño Cardenas**, a passionate Java developer hailing fr
   
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![intellij](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
 
 <br/>
 
